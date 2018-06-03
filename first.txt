@@ -5,3 +5,4 @@ commitの練習をしてみる。
 
 sample modified
 deleteの￥れんしゅう
+gi status
